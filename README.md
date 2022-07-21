@@ -14,15 +14,14 @@
 ## Using process
 
   > use request library to get BTC information       
-![pic01]()    
+![pic01](https://github.com/liulujunjin-vivian/Module5/blob/main/Pics/01.jpg)    
 
   > use alpaca SDK get information of AGG and SPY    
 ![pic02]()     
 
   > store the info in a list and make a dataFrame based on it for a pie chart    
-![pic03]()       
-
-![pic04]()
+![pic03]()        
+![pic04]()   
 
   > use python if statements to check if members has enough money in the fund
 ```python
@@ -35,9 +34,9 @@ else:
 ```
 
    > use Monte Carlo simulaters to predict    
-![pic05]()
-![pic06]()
-![pic07]()
+![pic05]()    
+![pic06]()    
+![pic07]()    
 
 ---
 
@@ -54,7 +53,7 @@ else:
  ---   
 
 ## Contributors
-  > Vivian Liu
+  > Vivian Liu    
     Liu Lujunjin   
 ---
 ## License
